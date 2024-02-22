@@ -20,36 +20,24 @@
 
 **Skills**
 
-JAVA 11
-
+JAVA 11 
 JSP
-
 HTML5
-
 CSS3
-
 JavaScript
-
 jQuery
-
 AJAX
-
 Spring Framework 5.3.15 (Maven)
-
 Spring MVC
-
 Mybatis
-
 Apache Tomcat 9.0
-
 Oracle 11g
+<br>
 
 **Tools**
 
 VS Code
-
 Spring Tool Suite
-
 GitHub
 
 ## 📕 담당 기능 설명
