@@ -58,9 +58,9 @@ GitHub
 
 ### 고수 정보
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/76ac40b1-a461-4251-ba3a-3ae06d79dffb/20240223_091137.gif?id=df254a02-3ea7-40d0-985a-45cd8d3e7d99&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=kLnTSv4jMKGoA5pxKoZTcubHA7iddJgD6VjMB4o7ncg" width=32% height=50%>
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/4f03a86a-f09c-4e57-b7f6-8e1b82fad469/20240223_091349.gif?id=13e563a6-8d48-4839-b12e-577738cf08f2&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=WoF6Tu2D0_XyVQyIy1GBeCx8Mc7XyGrBa6WVyMysL_s" width=32% height=50%>
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/c1fe6af5-2174-4fe2-b355-2b8ea4af150c/20240223_091417.gif?id=e0419363-66b8-451e-8fbd-7fdba3938f88&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=OMUO9W4ZKjhVijmwFGSWYnpmSQoJs98iwMvg4GNtiWY" width=32% height=50%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/76ac40b1-a461-4251-ba3a-3ae06d79dffb/20240223_091137.gif?id=df254a02-3ea7-40d0-985a-45cd8d3e7d99&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=kLnTSv4jMKGoA5pxKoZTcubHA7iddJgD6VjMB4o7ncg" width=32% height=60%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/4f03a86a-f09c-4e57-b7f6-8e1b82fad469/20240223_091349.gif?id=13e563a6-8d48-4839-b12e-577738cf08f2&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=WoF6Tu2D0_XyVQyIy1GBeCx8Mc7XyGrBa6WVyMysL_s" width=32% height=60%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/c1fe6af5-2174-4fe2-b355-2b8ea4af150c/20240223_091417.gif?id=e0419363-66b8-451e-8fbd-7fdba3938f88&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=OMUO9W4ZKjhVijmwFGSWYnpmSQoJs98iwMvg4GNtiWY" width=32% height=60%>
 </div>
 
 원하는 고수를 클릭하면, 상세정보 페이지로 이동합니다. 상단에는 프로필사진과 활동지역 등 기초적인 정보과 좋아요, 견적요청, 신고 버튼이 위치하고 있고
