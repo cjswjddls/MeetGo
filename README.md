@@ -45,7 +45,7 @@ GitHub
 ### 고수 찾기(키워드/지역/서비스)
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/caf8a84d-93b3-4f21-a019-c14970e987a4/20240223_091012.gif?id=eafffbfd-f445-4c92-bc1c-be2b20c4ecf1&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=dRzAsBky2yNQuSz-9WLWAw0Ta9Z8KoCo3GWTSd4d7Kg" width=70% height=70%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/caf8a84d-93b3-4f21-a019-c14970e987a4/20240223_091012.gif?id=eafffbfd-f445-4c92-bc1c-be2b20c4ecf1&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=98XUKs-T6Kwl4ve-ZtNKGFx3kiFXGlRfDpwFqRapUSk" width=70% height=70%>
 </div>
 
 고수 찾기 화면으로 헤더의 검색어와 고수의 활동 지역(시/도 + 시/군/구) 조합, 카테고리 대분류 + 중분류, 그리고 정렬 기준에 따라 조회된 내용이 바뀌어야 했습니다.
@@ -58,9 +58,9 @@ GitHub
 
 ### 고수 정보
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/76ac40b1-a461-4251-ba3a-3ae06d79dffb/20240223_091137.gif?id=df254a02-3ea7-40d0-985a-45cd8d3e7d99&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=kLnTSv4jMKGoA5pxKoZTcubHA7iddJgD6VjMB4o7ncg" width=32% height=60%>
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/4f03a86a-f09c-4e57-b7f6-8e1b82fad469/20240223_091349.gif?id=13e563a6-8d48-4839-b12e-577738cf08f2&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=WoF6Tu2D0_XyVQyIy1GBeCx8Mc7XyGrBa6WVyMysL_s" width=32% height=60%>
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/c1fe6af5-2174-4fe2-b355-2b8ea4af150c/20240223_091417.gif?id=e0419363-66b8-451e-8fbd-7fdba3938f88&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=OMUO9W4ZKjhVijmwFGSWYnpmSQoJs98iwMvg4GNtiWY" width=32% height=60%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/76ac40b1-a461-4251-ba3a-3ae06d79dffb/20240223_091137.gif?id=df254a02-3ea7-40d0-985a-45cd8d3e7d99&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=Gqb9vYsfAWSh1A2EPcATNYOwGcSLcDDK-gf4XstxxHg" width=32% height=60%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/4f03a86a-f09c-4e57-b7f6-8e1b82fad469/20240223_091349.gif?id=13e563a6-8d48-4839-b12e-577738cf08f2&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=eE34JpxmN8aT0wmzb_bx_cOvBS2E_YUcbvowYdm3aZY" width=32% height=60%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/c1fe6af5-2174-4fe2-b355-2b8ea4af150c/20240223_091417.gif?id=e0419363-66b8-451e-8fbd-7fdba3938f88&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=jCRJUhVdRUZvBrbQh6pk1zOohgCqDOHv_jL76oRZEts" width=32% height=60%>
 </div>
 
 원하는 고수를 클릭하면, 상세정보 페이지로 이동합니다. 상단에는 프로필사진과 활동지역 등 기초적인 정보과 좋아요, 견적요청, 신고 버튼이 위치하고 있고
@@ -86,7 +86,7 @@ GitHub
 ### 포트폴리오 게시판 조회(전체조회/서비스별 조회/상세조회)
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/3bc1c4d9-f913-46ac-b148-7ea526d8d4e7/20240223_091615.gif?id=30af30c5-71e1-4b3e-bce7-b33ab42aa1e3&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=OhGNai0uXjIgBJ31IP-HdrMlM3Brgq6KwnXmvUwB_rc" width=70% height=70%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/3bc1c4d9-f913-46ac-b148-7ea526d8d4e7/20240223_091615.gif?id=30af30c5-71e1-4b3e-bce7-b33ab42aa1e3&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=J9kmRI6dAv-xmIS3dfaZzCue00wIDcpPlws0GzujvuQ" width=70% height=70%>
 </div>
 
 포트폴리오 전체 조회 화면입니다. 현재는 로그인 상태라서 왼쪽 상단에 글 작성 버튼이 보여집니다. 회원이어도 고수 미등록된 회원이라면 클릭 시 alert창으로 작성 불가함을 안내합니다.
@@ -102,7 +102,7 @@ GitHub
 ### 포트폴리오 글 작성
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/77a24c9e-9c95-46dc-8d50-cf3e326c5552/20240223_091734.gif?id=aee45ab3-8bde-4032-b423-9fafb3020929&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=4bpSQnD3mcaGabgLZqmen19lsQnOoQkb76ILMSI2EN4" width=70% height=70%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/77a24c9e-9c95-46dc-8d50-cf3e326c5552/20240223_091734.gif?id=aee45ab3-8bde-4032-b423-9fafb3020929&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=lxSV8gOZmg6uyvbdmB-X_JhBrc_3rhMFIvCcyyEld9U" width=70% height=70%>
 </div>
 
 글 작성 버튼을 누르면 작성페이지로 넘어가고
@@ -128,7 +128,7 @@ FormData 객체에 대해 알게 되었습니다. 예시 코드를 참고하며 
 ### 포트폴리오 수정 / 삭제
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/dbca3926-991d-425c-b6de-7da231fed7f0/20240223_091858.gif?id=80ca201e-2c41-4498-a5b3-df49a8aab265&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=wMYZbdwoEijvobBiHcGsrsjY3OF96i-mmlqanqfMZe4" width=70% height=70%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/dbca3926-991d-425c-b6de-7da231fed7f0/20240223_091858.gif?id=80ca201e-2c41-4498-a5b3-df49a8aab265&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=2WqiNV8bu1auVAip5PmhX5ihwbHjEtc7nX1C3Hjr-xs" width=70% height=70%>
 </div>
 
 작성자 본인이 수정하기 버튼 클릭시 수정 페이지로 이동합니다.
@@ -142,7 +142,7 @@ FormData 객체에 대해 알게 되었습니다. 예시 코드를 참고하며 
 ### 관리자 페이지 - 신고 관리와 포트폴리오 게시판 관리
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/bca7aee5-f655-4c4d-aab9-7aa60af075e5/20240223_092255.gif?id=16823fc8-b2f4-4d28-b9ad-1cefca9f784d&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=zzxe5GushlXjjZTJ1Ksi8UIs9iFSYrm16M6suj1fCdw" width=70% height=70%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/bca7aee5-f655-4c4d-aab9-7aa60af075e5/20240223_092255.gif?id=16823fc8-b2f4-4d28-b9ad-1cefca9f784d&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=LKR3kUfgiYuNffmogiqTnRfN8FvGP6JtoUICmMyuhYM" width=70% height=70%>
 </div>
 
 관리자 계정으로 로그인 시 관리자 페이지로 이동합니다. 그 중에서 신고내역 관리 항목이며
@@ -154,7 +154,7 @@ FormData 객체에 대해 알게 되었습니다. 예시 코드를 참고하며 
 ---
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/8fcff67e-a658-4030-b237-946cb450e8b7/20240223_092217.gif?id=fd604718-8136-4371-b4a6-15dd822ba56e&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1708740000000&signature=tVj3NnfBKK2_4BY4D4AcEb5zHsMAMWigZWrYHROSYKU" width=70% height=70%>
+  <img src="https://file.notion.so/f/f/de277671-8357-420f-b63f-1903187f27e5/8fcff67e-a658-4030-b237-946cb450e8b7/20240223_092217.gif?id=fd604718-8136-4371-b4a6-15dd822ba56e&table=block&spaceId=de277671-8357-420f-b63f-1903187f27e5&expirationTimestamp=1709035200000&signature=hM07KYDdCDNv-7AzxBdDNr0DpDFoV4jvm9wA7V4qmDQ" width=70% height=70%>
 </div>
 
 포트폴리오 관리 항목에서도 비슷한 탬플릿을 유지하면서 검색 기능을 구현했습니다. 검색한 키워드가 제목에 포함된 게시글만 조회됩니다.
